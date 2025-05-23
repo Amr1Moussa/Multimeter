@@ -1,6 +1,6 @@
 # Arduino Multimeter Project
 
-This is a DIY multimeter built using an **Arduino UNO**, an **LCD display**, and basic electronic components. It can measure:
+This is a DIY Multimeter built using an **Arduino UNO**, an **LCD display**, and basic electronic components. It can measure:
 
 - **Current (mA)**
 - **Voltage (V)**
